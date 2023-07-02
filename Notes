@@ -1,0 +1,6 @@
+Notes for the Sentiment project.
+
+- Using the yfinance api to gather financial data in json.
+- Clean and format this data into a dataframe.
+- 
+- 
