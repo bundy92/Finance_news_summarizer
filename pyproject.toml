@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "sentiment"
+version = "0.1.0"
+description = "Sentiment and portfolio analysis package - work in progress"
+authors = ["T.B <bundy92@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
