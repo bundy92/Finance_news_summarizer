@@ -1,0 +1,5 @@
+Ticker,Summary,Label,Confidence,URL
+TSLA,It’s an error that’s hard to diagnose because it’s a malformed request.,https://consent.google.com/dl?continue=https://www.google.com/search?q%3Dyahoo%2Bfinance%2BTSLA%26tbm%3Dnws
+BTC,It’s an error that’s hard to diagnose because it’s a malformed request.,https://consent.google.com/dl?continue=https://www.google.com/search?q%3Dyahoo%2Bfinance%2BBTC%26tbm%3Dnws
+AAPL,It’s an error that’s hard to diagnose because it’s a malformed request.,https://consent.google.com/dl?continue=https://www.google.com/search?q%3Dyahoo%2Bfinance%2BAAPL%26tbm%3Dnws
+AMZN,It’s an error that’s hard to diagnose because it’s a malformed request.,https://consent.google.com/dl?continue=https://www.google.com/search?q%3Dyahoo%2Bfinance%2BAMZN%26tbm%3Dnws
